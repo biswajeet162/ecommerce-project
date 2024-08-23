@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Shoe",
+    "price": 500,
+    "imgUrl": "https://images.unsplash.com/photo-1578116922645-3976907a7671?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80",
+    "hasDiscount": true,
+    "discountPercent": 25,
+    "seller": "Asian Shop",
+    "deliveryTime": 4,
+    "deliveryCost": 40
+  },
+  {
+    "id": 2,
+    "name": "Shoe",
+    "price": 500,
+    "imgUrl": "https://images.unsplash.com/photo-1578116922645-3976907a7671?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80",
+    "hasDiscount": true,
+    "discountPercent": 25,
+    "seller": "Asian Shop",
+    "deliveryTime": 4,
+    "deliveryCost": 40
+  },
+  {
+    "id": 3,
+    "name": "Shoe",
+    "price": 500,
+    "imgUrl": "https://images.unsplash.com/photo-1578116922645-3976907a7671?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80",
+    "hasDiscount": true,
+    "discountPercent": 25,
+    "seller": "Asian Shop",
+    "deliveryTime": 4,
+    "deliveryCost": 40
+  },
+  {
+    "id": 4,
+    "name": "Shoe",
+    "price": 500,
+    "imgUrl": "https://images.unsplash.com/photo-1578116922645-3976907a7671?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80",
+    "hasDiscount": true,
+    "discountPercent": 25,
+    "seller": "Asian Shop",
+    "deliveryTime": 4,
+    "deliveryCost": 40
+  },
+  {
+    "id": 5,
+    "name": "Shoe",
+    "price": 500,
+    "imgUrl": "https://images.unsplash.com/photo-1578116922645-3976907a7671?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80",
+    "hasDiscount": true,
+    "discountPercent": 25,
+    "seller": "Asian Shop",
+    "deliveryTime": 4,
+    "deliveryCost": 40
+  },
+  {
+    "id": 6,
+    "name": "Shoe",
+    "price": 500,
+    "imgUrl": "https://images.unsplash.com/photo-1578116922645-3976907a7671?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80",
+    "hasDiscount": true,
+    "discountPercent": 25,
+    "seller": "Asian Shop",
+    "deliveryTime": 4,
+    "deliveryCost": 40
+  },
+  {
+    "id": 7,
+    "name": "Shoe",
+    "price": 500,
+    "imgUrl": "https://images.unsplash.com/photo-1578116922645-3976907a7671?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80",
+    "hasDiscount": true,
+    "discountPercent": 25,
+    "seller": "Asian Shop",
+    "deliveryTime": 4,
+    "deliveryCost": 40
+  },
+  {
+    "id": 8,
+    "name": "Shoe",
+    "price": 500,
+    "imgUrl": "https://images.unsplash.com/photo-1578116922645-3976907a7671?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80",
+    "hasDiscount": true,
+    "discountPercent": 25,
+    "seller": "Asian Shop",
+    "deliveryTime": 4,
+    "deliveryCost": 40
+  },
+  {
+    "id": 9,
+    "name": "Shoe",
+    "price": 500,
+    "imgUrl": "https://images.unsplash.com/photo-1578116922645-3976907a7671?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80",
+    "hasDiscount": true,
+    "discountPercent": 25,
+    "seller": "Asian Shop",
+    "deliveryTime": 4,
+    "deliveryCost": 40
+  },
+  {
+    "id": 10,
+    "name": "Shoe",
+    "price": 500,
+    "imgUrl": "https://images.unsplash.com/photo-1578116922645-3976907a7671?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80",
+    "hasDiscount": true,
+    "discountPercent": 25,
+    "seller": "Asian Shop",
+    "deliveryTime": 4,
+    "deliveryCost": 40
+  }
+]

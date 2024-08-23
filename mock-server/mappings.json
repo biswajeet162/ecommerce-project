@@ -1,0 +1,19 @@
+{
+    "mappings": [
+        {
+            "priority": 1,
+            "request": {
+              "method": "GET",
+              "urlPattern": "/api/testmart/product/123456789"
+            },
+            "response": {
+              "headers": {
+                "Content-Type": "application/json"
+              },
+              "status": 200,
+              "bodyFileName": "responses/myresponse.json"
+            }
+          }
+    ]
+  }
+  
